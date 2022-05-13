@@ -11,7 +11,7 @@ https://docs.github.com/en/repositories/creating-and-managing-repositories/cloni
 
 3) Utilize the following command to install the required packages:
     ```
-    NPM install
+    npm install
     ```
 
 4) Once the packages have installed open up two command prompts. 
