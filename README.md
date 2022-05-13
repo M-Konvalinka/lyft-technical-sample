@@ -6,7 +6,7 @@ This web application is written in Javascript and takes an input from the user. 
 
 https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
-2) Once the repo has been cloned, Cd into the newly created repository
+2) Once the repo has been cloned, cd into the newly created repository
     \lyft-technical-sample
 
 3) Utilize the following command to install the required packages:
@@ -16,7 +16,7 @@ https://docs.github.com/en/repositories/creating-and-managing-repositories/cloni
 
 4) Once the packages have installed open up two command prompts. 
 
-5) On the first command prompt cd into \lyft-technical-sample\sever and enter the following command 
+5) On the first command prompt, cd into \lyft-technical-sample\sever and enter the following command 
     ```
     node server.js
     ```
@@ -28,4 +28,4 @@ https://docs.github.com/en/repositories/creating-and-managing-repositories/cloni
     ```
 - After entering this command, the project should open up in your web browser and the terminal should say "compiled successfully!"
 
-7) You can now enter text into the text box and receive back a new string."
+7) You can now enter text into the text box and receive back a new string.
